@@ -46,6 +46,6 @@ Here are some ideas to get you started:
 <a > <img src="https://user-images.githubusercontent.com/58952369/180606741-c99caac4-0ee5-4d5f-abd2-249c8effd495.png"  width="40" height="40"/> </a>
       
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=oguzhankoc55&show_icons=true&theme=transparent)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ysfArslan1&show_icons=true&theme=transparent)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oguzhankoc55&langs_count=8)](https://github.com/oguzhankoc55/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ysfArslan1&langs_count=8)](https://github.com/ysfArslan1/github-readme-stats)
