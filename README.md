@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **ysfArslan1/ysfArslan1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,8 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
-# Hi there I'm Oğuzhan Koç
+### Hi there 👋
 
 🔭 I’m currently working on C# and Python
 
