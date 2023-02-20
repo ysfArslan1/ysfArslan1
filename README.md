@@ -24,9 +24,7 @@ Here are some ideas to get you started:
 
 # Languages and Tools:
 
-<a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
- 
- <a > <img src="https://user-images.githubusercontent.com/58952369/180606646-173f28df-9b90-42f0-9170-20a966c19d8d.png" alt="python" width="40" height="40"/> </a> 
+<a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a > <img src="https://user-images.githubusercontent.com/58952369/180606646-173f28df-9b90-42f0-9170-20a966c19d8d.png" alt="python" width="40" height="40"/> </a> 
  
  <a href="https://www.w3schools.com/cs/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a>
  
