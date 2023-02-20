@@ -22,15 +22,6 @@ Here are some ideas to get you started:
 
 📫 How to reach me: oguzhankoc9855@hotmail.com
 
-# Connected with me:
-
-&nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/oguzhan9855/#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/oguzhan9855/#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://www.instagram.com/kcoguz/#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://www.instagram.com/kcoguz/#gh-dark-mode-only)
-
 # Languages and Tools:
 
 <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a><a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
