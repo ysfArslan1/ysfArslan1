@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 🌱 I’m currently learning Machine Learning
 
-📫 How to reach me: oguzhankoc9855@hotmail.com
+📫 How to reach me: ysf.arslan2017@gmail.com
 
 # Languages and Tools:
 
