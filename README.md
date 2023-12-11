@@ -16,9 +16,11 @@ Here are some ideas to get you started:
 
 ### Hi there 👋
 
-🔭 I’m currently working on C# and Python
+I am a software developer who graduated from Kocaeli University, Computer Engineering. During my university years, I developed projects in languages such as C#, Python, Java and C.
 
-🌱 I’m currently learning Machine Learning
+Additionally, I developed solutions to problems with tools such as Google Map API, Google Cloud Database, OpenCV, Flask.
+
+While working part-time at Kocaeli University, I developed C# ASP.NET Core web applications and gained experience in this field.
 
 📫 How to reach me: ysf.arslan2017@gmail.com
 
